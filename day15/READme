@@ -1,0 +1,5 @@
+This program is designed to analyze the performance of multiple students based on their marks. 
+It begins by asking the user to enter the total number of students and then stores each student’s mark in a one-dimensional array.
+Using loops, it calculates the total sum of marks to determine the average score. It also checks each mark to identify the highest and lowest values.
+The program classifies each student as passed or failed based on a minimum passing mark of 50. Additionally, it assigns grades (A+, A, B, C, D, or Fail) according to predefined mark ranges and counts how many students fall into each grade category
+Finally, it displays a detailed summary including the average mark, highest and lowest marks, number of passed and failed students, and the overall grade distribution.
