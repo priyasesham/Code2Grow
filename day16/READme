@@ -1,0 +1,15 @@
+1. the program begins by displaying a welcome message and prompting the user to enter the total number of customers to be processed
+
+2. The program manages a café’s customer orders using arrays to track item prices and quantities sold.
+
+
+3. It processes multiple customers, allowing each to order several items by entering item numbers and quantities.
+
+
+4. As each order is entered, the program calculates the customer’s total bill and updates overall café totals.
+
+
+5. It then uses conditional logic to determine the most and least ordered items from all sales.
+
+
+6. Finally, it displays a café summary showing total revenue, total items sold, and the most and least ordered items.
