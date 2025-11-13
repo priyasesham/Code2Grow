@@ -1,0 +1,16 @@
+1. This program is called Employee Salary Analysis System which helps to analyze employee salaries.
+
+
+2. It asks the user to enter student details and the salaries of up to 10 employees.
+
+
+3. It displays a menu with options to view all salaries, total and average salary, highest and lowest salary, and more.
+
+
+4. The user can choose any option, and the program performs the calculation using loops and conditionals.
+
+
+5. The salaries are stored in a one-dimensional array, making it easy to process and sort them.
+
+
+6. Finally, it prints the student’s name, registration number, and section along with a challenge message.
