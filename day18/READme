@@ -1,0 +1,13 @@
+1. The program stores product details like ID, quantity, and price using three separate one-dimensional arrays.
+
+
+2. A menu system is used so the user can add products, view them, search for a specific product, or calculate the total value.
+
+
+3. Adding a product stores its details at the next available index in the arrays.
+
+
+4. Searching is done by scanning the productID array to find the matching ID.
+
+
+5. The total inventory value is calculated by multiplying each product’s quantity and price in a loop and adding all results.
